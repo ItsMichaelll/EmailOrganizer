@@ -1,0 +1,6 @@
+Tk
+configparser
+customtkinter
+CTkListbox
+pillow
+beautifulsoup4
