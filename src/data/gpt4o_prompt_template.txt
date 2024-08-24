@@ -1,0 +1,11 @@
+Your job is to sort a given email message into a category from a list of provided categories. You should use your best judgement, analyzing each category included in the list of provided categories carefully. Your response should be ONLY the category name that you have decided the email is best categorized into. Your response should perfectly match one of the provided categories in the list of categories. If the email message seems to contain no body or message, or asks to view the HTML version instead, then your generated response should be 'NONE'. If the email message seems like it could be categorized into multiple categories, then your generated response should be the category that it MOST LIKELY relates to. It's important that you don't pick a category unless you are 100% positive. If you are unsure, then your generated response should be 'NONE'.
+
+PROMPT_TEMPLATE
+---START---
+
+CATEGORY NAMES:
+{categories}
+
+EMAIL:
+{email_content}
+---END---
