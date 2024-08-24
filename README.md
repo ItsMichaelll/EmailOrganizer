@@ -135,11 +135,11 @@ Additionally, there are options for a "Fresh Start" for both the Email Organizer
 
     Your settings should look like this:
 
-    ![Gmail IMAP Settings](https://prnt.sc/LE_OaRk8u0xc "Gmail IMAP Settings")
+    ![Gmail IMAP Settings](https://img001.prntscr.com/file/img001/Ce3pPArsROyNDgw-dCBp0Q.png)
 
 6. Finally, make sure that your Gmail account has the following label heirarchy setup:
 
-    ![Gmail Label Heirarchy](https://prnt.sc/37-Bn5ekwF3e "Gmail Label Heirarchy")
+    ![Gmail Label Heirarchy](https://img001.prntscr.com/file/img001/jzZ9TdJdTp-x_Y8Zi_e1JQ.png)
 
 ## Usage
 
